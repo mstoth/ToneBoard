@@ -1,0 +1,10 @@
+C:\Users\micha\source\ToneBoard\ToneBoard\bin\Debug\ToneBoard.exe.config
+C:\Users\micha\source\ToneBoard\ToneBoard\bin\Debug\ToneBoard.exe
+C:\Users\micha\source\ToneBoard\ToneBoard\bin\Debug\ToneBoard.pdb
+C:\Users\micha\source\ToneBoard\ToneBoard\bin\Debug\ToneBoard.xml
+C:\Users\micha\source\ToneBoard\ToneBoard\obj\Debug\ToneBoard.vbprojAssemblyReference.cache
+C:\Users\micha\source\ToneBoard\ToneBoard\obj\Debug\ToneBoard.Resources.resources
+C:\Users\micha\source\ToneBoard\ToneBoard\obj\Debug\ToneBoard.vbproj.GenerateResource.cache
+C:\Users\micha\source\ToneBoard\ToneBoard\obj\Debug\ToneBoard.exe
+C:\Users\micha\source\ToneBoard\ToneBoard\obj\Debug\ToneBoard.xml
+C:\Users\micha\source\ToneBoard\ToneBoard\obj\Debug\ToneBoard.pdb
